@@ -2,12 +2,13 @@
 Projeto que inicialmente visa a construção de uma API completa para uma biblioteca virtual, sendo necessário a conclusão de alguns requisítos.
 
 ## Pré-requisitos de Instalação
-No Spring Initialzr:
+Spring Boot:
 - Lombok
 - Spring Web
 - Spring Data JPA
 - H2 Database
 - Docker Compose Support
+- Validation
 
 ## Requisítos Gerais
 - Definição e validação dos requisitos de um software de biblioteca virtual pública;
