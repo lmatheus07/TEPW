@@ -9,7 +9,7 @@ No Spring Initialzr:
 - H2 Database
 - Docker Compose Support
 
-## Requisítos
+## Requisítos Gerais
 - Definição e validação dos requisitos de um software de biblioteca virtual pública;
 - Definição de cronograma de entregas por membro;
 - Desenvolver rotas para 05 CRUDs completos (cadastrar, editar, pesquisar todos, pesquisar por ID e excluir);
